@@ -7,4 +7,5 @@ Sprawdź która z liczb jest większa i wypisz informację na ekranie.
 4. Pobierz od użytkownika 2 liczby i działanie. Sprawdź czy operacja do wykonania to dzielenie.  
 Jeżeli tak wyświetl komunikat.
 5. Pobierz od użytkownika 2 liczby i działanie. Sprawdź czy operacja do wykonania to dzielenie.  
-Jeżeli tak, sprawdź czy możesz wykonać dzielenie.
+Jeżeli tak, sprawdź czy możesz wykonać dzielenie, gdy jest to możliwe wykonaj dzielenie.  
+Dla innych operacji, wyliczenie wartości ma przebiegać bez zakłóceń 
